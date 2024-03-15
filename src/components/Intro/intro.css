@@ -5,6 +5,7 @@
     margin: 0 auto;
     overflow: hidden;
     position: relative;
+    
 }
 .profile-img{
     position: absolute;
@@ -63,6 +64,7 @@
 }
 }
 @media screen  and (max-width:480px){
-    .profile-img{right: -20vw;
+    .profile-img{
+        right: -30vw;
     }   
 }
